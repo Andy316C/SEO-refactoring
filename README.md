@@ -29,7 +29,8 @@ command to run if program contains helper info
 
 ## Andrew Clark
 Contact Info:
-<a href="https://andy316c.github.io/SEO-refactoring/"><b>GitHub Account</b></a>
+## Github
+<a href="https://andy316c.github.io/SEO-refactoring/"><b>Andy316c</b></a>
 
 
 
