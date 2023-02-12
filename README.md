@@ -29,7 +29,7 @@ command to run if program contains helper info
 
 Contributors names and contact info
 
-### Andrew clark
+### Andrew 
 <a href="https://andy316c.github.io/SEO-refactoring/">### GitHub</a>
 
 
