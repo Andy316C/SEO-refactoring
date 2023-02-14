@@ -1,15 +1,14 @@
-# Project Title
+## Horiseon Search Engine Optimisation
 
 Horiseon has asked to make the current webpage responsive and functional.
 
-## Description
 
-Request:
+### Request:
 
 As a marketing agency i want a codebase that follows accessibility standards
 so our own site is optimized for search engines.
 
-Developed:
+### Developed:
 
   * Added relevent semantic HTML elements for better understanding of page flow, this included
     header, footer , aside.
@@ -18,12 +17,14 @@ Developed:
 
   * Resolved responsive issues with the header link, added id and set the styling.
 
-
+### Summary
+After resolving the above issues the Horiseon webpage is now functioning as requested.
 
 # Authors
 
-### Andrew Clark
+#### Andrew Clark
 Phone #: 0411111222
+<br>
 Email: andy@github.com
 
 ## Linkeden
