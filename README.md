@@ -1,38 +1,34 @@
-# Project Title
+## Horiseon Search Engine Optimisation
 
-Simple overview of use/purpose.
-
-## Description
-
-An in-depth paragraph about your project and overview of use.
-
-## Getting Started
+Horiseon has asked to make the current webpage responsive and functional.
 
 
+### Request:
 
-### Executing program
+As a marketing agency i want a codebase that follows accessibility standards
+so our own site is optimized for search engines.
 
-* How to run the program
-* Step-by-step bullets
-```
-code blocks for commands
-```
+### Developed:
 
-## Help
+  * Added relevent semantic HTML elements for better understanding of page flow, this included
+    header, footer , aside.
 
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
+  * Reafctored CSS for better understanding of the current styling.
 
-## Authors
+  * Resolved responsive issues with the header link, added id and set the styling.
 
-# Andrew Clark
-Contact Info:
+### Summary
+After resolving the above issues the Horiseon webpage is now functioning as requested.
+
+
+
+#### Andrew Clark
 Phone #: 0411111222
+<br>
+Email: andy@github.com
 
 ## Linkeden
-<a href="https://au.linkedin.com/"><b>View Profile</b></a>
+<a href="https://au.linkedin.com/"><b>View Linkedin Profile</b></a>
 
 ## Github
 <a href="https://andy316c.github.io/SEO-refactoring/"><b>View Github projects</b></a>
@@ -40,7 +36,5 @@ Phone #: 0411111222
 
 
 
-## License
 
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
 
