@@ -27,7 +27,7 @@ Phone #: 0411111222
 <br>
 Email: andy@github.com
 
-## Linkeden
+## Linkedin
 <a href="https://au.linkedin.com/"><b>View Linkedin Profile</b></a>
 
 ## Github
