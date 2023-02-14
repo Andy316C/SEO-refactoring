@@ -20,14 +20,14 @@ Developed:
 
 
 
-## Authors
+# Authors
 
-# Andrew Clark
-Contact Info:
+### Andrew Clark
 Phone #: 0411111222
+Email: andy@github.com
 
 ## Linkeden
-<a href="https://au.linkedin.com/"><b>View Profile</b></a>
+<a href="https://au.linkedin.com/"><b>View Linkedin Profile</b></a>
 
 ## Github
 <a href="https://andy316c.github.io/SEO-refactoring/"><b>View Github projects</b></a>
