@@ -20,7 +20,7 @@ so our own site is optimized for search engines.
 ### Summary
 After resolving the above issues the Horiseon webpage is now functioning as requested.
 
-# Authors
+
 
 #### Andrew Clark
 Phone #: 0411111222
