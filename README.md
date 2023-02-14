@@ -27,10 +27,15 @@ command to run if program contains helper info
 
 ## Authors
 
-## Andrew Clark
+# Andrew Clark
 Contact Info:
+Phone #: 0411111222
+
+## Linkeden
+<a href="https://au.linkedin.com/"><b>View Profile</b></a>
+
 ## Github
-<a href="https://andy316c.github.io/SEO-refactoring/"><b>Andy316c</b></a>
+<a href="https://andy316c.github.io/SEO-refactoring/"><b>View Github projects</b></a>
 
 
 
