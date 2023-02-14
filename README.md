@@ -27,13 +27,11 @@ command to run if program contains helper info
 
 ## Authors
 
-Contributors names and contact info
+## Andrew Clark
+Contact Info:
+## Github
+<a href="https://andy316c.github.io/SEO-refactoring/"><b>Andy316c</b></a>
 
-Andrew clark
-<br>
-<br>
-### GitHub
-<a href="https://andy316c.github.io/SEO-refactoring/">
 
 
 
