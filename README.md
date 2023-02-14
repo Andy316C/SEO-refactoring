@@ -1,29 +1,23 @@
 # Project Title
 
-Simple overview of use/purpose.
+Horiseon has asked to make the current webpage responsive and functional.
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+Request:
+As a marketing agency i want a codebase that follows accessibility standards
+so our own site is optimized for search engines.
 
-## Getting Started
+Developed:
+
+  * Added relevent semantic HTML elements for better understanding of page flow, this included
+    header, footer , aside.
+Refactored CSS elements for cleaner understanding.
+  * Reafctored CSS for better understanding of the current styling.
+
+  * Resolved responsive issues with the header link, added id and set the styling.
 
 
-
-### Executing program
-
-* How to run the program
-* Step-by-step bullets
-```
-code blocks for commands
-```
-
-## Help
-
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
 
 ## Authors
 
@@ -40,7 +34,5 @@ Phone #: 0411111222
 
 
 
-## License
 
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
 
